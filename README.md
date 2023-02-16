@@ -2,16 +2,17 @@
 
 practicafw1
 
-     numero de control: 18120099
+     numero de control:
 
-     nombre completo: rene de jesus tecpile 
+     nombre completo: 
 
-     curp: JETR00108HPLSCNA1
+     curp:
 
-     direccion de domicilio: Eloxochitlan
+     direccion de domicilio: 
 
-     numero de telefono:2361107986
+     numero de telefono:
 
-     coreo institucional: 18120099@ajalpan.tecnm-mx
+     coreo institucional: 
      
+     reservado para rama1 
 
