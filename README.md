@@ -1,8 +1,8 @@
 # PRACTICAFW1
 
-practicafw1
+practicafw1.
 
-     numero de control: 
+     numero de control:
 
      nombre completo: 
 
